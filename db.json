@@ -1,14 +1,4 @@
-{
-  "posts": [
-  
-  ],
-  "comments": [
-
-  ],
-  "profile": {
-    
-  },
-  "data":[
+[
   {
     "id": "6c3b6e86-152a-4366-a7f0-076b94d8c4ee",
     "title": "1,2 Shake It on Your Shoe",
@@ -3426,5 +3416,3 @@
     "textUrl": ""
   }
 ]
-
-}
